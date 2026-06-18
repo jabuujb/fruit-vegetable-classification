@@ -115,6 +115,28 @@ A video demonstration of the project, model performance, and classification resu
 - Deployment as a web application
 - Object detection and localization
 
+## Repository Structure
+
+```text
+fruit-vegetable-classification/
+│
+├── notebooks/                          # Jupyter notebooks
+│   ├── cnn_classifier.ipynb
+│   ├── dnn_classifier.ipynb
+│   └── mlp_classifier.ipynb
+│
+├── docs/                               # Documentation
+│   ├── SETUP.md
+│   └── EE258_Final_Project_Report.pdf
+│
+├── presentation/                       # Project presentation
+│   └── Fruit_Vegetable_Classification_Presentation.pdf
+│
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
 ## References
 
 [1] K. Seth, "Fruit and Vegetable Image Recognition Dataset," Kaggle, 2020. Available: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
