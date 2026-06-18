@@ -2,7 +2,7 @@
 Computer vision project using TensorFlow/Keras to classify 51 fruit and vegetable categories and compare CNN, DNN, and MLP neural network performance.
 
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/3934dc8b-c78c-42a2-a231-d2f64dd61bc0" />
-
+<img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/faa39747-cb79-407e-9f3d-5ed22a296436" />
 ## Overview
 
 This project was developed as part of EE 258 – Sensor Technology and Principles at San José State University.
@@ -54,8 +54,6 @@ Three neural network architectures were evaluated on a 51-class fruit and vegeta
 | DNN | 0% | 0% | 0% | 0% |
 | MLP (Baseline) | 5% | 5% | 0% | 1% |
 | MLP (Improved) | 35% | 51% | 35% | 31% |
-
-<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/faa39747-cb79-407e-9f3d-5ed22a296436" />
 
 ### Key Findings
 
