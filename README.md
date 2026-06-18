@@ -1,3 +1,5 @@
+<img width="616" height="463" alt="image" src="https://github.com/user-attachments/assets/e21acd53-80fc-4069-bac0-25f41ea34b1d" />
+
 # Fruit and Vegetable Classification
 
 Computer vision project using TensorFlow/Keras to classify 51 fruit and vegetable categories and compare CNN, DNN, and MLP neural network performance.
