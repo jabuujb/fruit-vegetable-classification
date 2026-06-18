@@ -45,6 +45,36 @@ The system classifies images into 51 categories of fruits and vegetables and the
 Fruit and Vegetable Image Recognition Dataset (Kaggle)
 Link: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
+## Results
+
+Three neural network architectures were evaluated on a 51-class fruit and vegetable image classification problem.
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---------|---------|---------|---------|---------|
+| CNN (Baseline) | 95% | 96% | 95% | 95% |
+| CNN (Improved) | 97% | 98% | 97% | 97% |
+| DNN | 0% | 0% | 0% | 0% |
+| MLP (Baseline) | 5% | 5% | 0% | 1% |
+| MLP (Improved) | 35% | 51% | 35% | 31% |
+
+### Key Findings
+
+- CNN achieved the highest overall performance, reaching 97% accuracy after tuning batch size and training epochs.
+- Increasing the batch size from 32 to 128 and epochs from 10 to 30 improved CNN accuracy by approximately 2%.
+- The MLP architecture improved substantially after tuning, increasing from approximately 5% to 35% classification performance.
+- The DNN implementation successfully sorted produce categories but did not achieve meaningful classification accuracy.
+- CNN-based transfer learning proved significantly more effective for image classification than MLP and DNN approaches.
+
+### Dataset
+
+- Original dataset: 36 classes
+- Expanded dataset: 51 classes
+- Final categories:
+  - 21 Fruits
+  - 29 Vegetables
+  - 1 Unknown category
+- Test Set: 474 labeled images
+
 ## Key Contributions
 
 - Expanded the original dataset from 36 to 51 classes
@@ -52,10 +82,6 @@ Link: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recog
 - Implemented produce sorting into Fruit, Vegetable, and Unknown classifications
 - Compared CNN, DNN, and MLP neural network architectures
 - Evaluated model performance using accuracy and loss metrics
-
-## Results
-
-The CNN model achieved the best overall performance, reaching approximately 95% classification accuracy.
 
 ## Project Demonstration
 
