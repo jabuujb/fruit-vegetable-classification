@@ -50,6 +50,14 @@ The system classifies images into 51 categories of fruits and vegetables and the
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 
+## Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Dataset
 <img width="1421" height="257" alt="image" src="https://github.com/user-attachments/assets/91e95c24-2020-4567-9d91-4e2948618b77" />
 Fruit and Vegetable Image Recognition Dataset (Kaggle)
