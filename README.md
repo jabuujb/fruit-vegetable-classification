@@ -1,5 +1,7 @@
 # Fruit and Vegetable Classification
 
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/3934dc8b-c78c-42a2-a231-d2f64dd61bc0" />
+
 Computer vision project using TensorFlow/Keras to classify 51 fruit and vegetable categories and compare CNN, DNN, and MLP neural network performance.
 
 <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/faa39747-cb79-407e-9f3d-5ed22a296436" />
@@ -28,7 +30,7 @@ The system classifies images into 51 categories of fruits and vegetables and the
 - Performance comparison
 - Unknown object detection
 
-<img width="1378" height="430" alt="image" src="https://github.com/user-attachments/assets/bee3ab16-b490-42ac-a68f-0a50a4d1239c" />
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/bee3ab16-b490-42ac-a68f-0a50a4d1239c" />
 
 ## Technologies
 
@@ -41,7 +43,7 @@ The system classifies images into 51 categories of fruits and vegetables and the
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 
 ## Dataset
-<img width="1256" height="233" alt="image" src="https://github.com/user-attachments/assets/4f1c56fe-5e9f-4370-8eab-4b9e179e17bc" />
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/4f1c56fe-5e9f-4370-8eab-4b9e179e17bc" />
 Fruit and Vegetable Image Recognition Dataset (Kaggle)
 Link: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
