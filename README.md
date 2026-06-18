@@ -115,6 +115,22 @@ A video demonstration of the project, model performance, and classification resu
 - Deployment as a web application
 - Object detection and localization
 
+## References
+
+[1] K. Seth, "Fruit and Vegetable Image Recognition Dataset," Kaggle, 2020. Available: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+
+[2] TensorFlow Documentation. Available: https://www.tensorflow.org/
+
+[3] Keras Documentation. Available: https://keras.io/
+
+[4] NumPy Documentation. Available: https://numpy.org/doc/
+
+[5] Pandas Documentation. Available: https://pandas.pydata.org/docs/
+
+[6] Matplotlib Documentation. Available: https://matplotlib.org/stable/
+
+[7] Scikit-Learn Documentation. Available: https://scikit-learn.org/stable/
+
 ## Author
 
 **Justin Ogle**
