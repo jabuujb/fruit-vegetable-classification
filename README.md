@@ -159,6 +159,13 @@ fruit-vegetable-classification/
 
 M.S. Electrical Engineering (Automation & Robotics)
 
+Areas of Interest:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Robotics
+- Defense Analytics
+
 LinkedIn: https://www.linkedin.com/in/justin-ogle-b78233b0
 
 GitHub: https://github.com/jabuujb
