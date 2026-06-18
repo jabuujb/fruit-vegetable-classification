@@ -52,3 +52,9 @@ The CNN model achieved the best overall performance, reaching approximately 95% 
 ## Author
 
 Justin Ogle
+
+## Demonstration Video
+
+Watch the project demonstration here:
+
+https://youtu.be/BqxeYV_6C04
