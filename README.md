@@ -117,4 +117,10 @@ A video demonstration of the project, model performance, and classification resu
 
 ## Author
 
-Justin Ogle
+**Justin Ogle**
+
+M.S. Electrical Engineering (Automation & Robotics)
+
+LinkedIn: https://www.linkedin.com/in/justin-ogle-b78233b0
+
+GitHub: https://github.com/jabuujb
