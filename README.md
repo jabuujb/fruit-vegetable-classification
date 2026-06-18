@@ -37,9 +37,23 @@ The system classifies images into 51 categories of fruits and vegetables and the
 Fruit and Vegetable Image Recognition Dataset (Kaggle)
 Link: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
+## Key Contributions
+
+- Expanded the original dataset from 36 to 51 classes
+- Added an Unknown category to identify non-produce images
+- Implemented produce sorting into Fruit, Vegetable, and Unknown classifications
+- Compared CNN, DNN, and MLP neural network architectures
+- Evaluated model performance using accuracy and loss metrics
+
 ## Results
 
 The CNN model achieved the best overall performance, reaching approximately 95% classification accuracy.
+
+## Project Demonstration
+
+A video demonstration of the project, model performance, and classification results is available here:
+
+[Watch Project Demonstration](https://youtu.be/BqxeYV_6C04)
 
 ## Future Improvements
 
@@ -52,9 +66,3 @@ The CNN model achieved the best overall performance, reaching approximately 95% 
 ## Author
 
 Justin Ogle
-
-## Demonstration Video
-
-Watch the project demonstration here:
-
-https://youtu.be/BqxeYV_6C04
