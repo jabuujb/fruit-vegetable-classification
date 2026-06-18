@@ -39,7 +39,7 @@ The system classifies images into 51 categories of fruits and vegetables and the
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 
 ## Dataset
-<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/4f1c56fe-5e9f-4370-8eab-4b9e179e17bc" />
+<img width="1421" height="257" alt="image" src="https://github.com/user-attachments/assets/91e95c24-2020-4567-9d91-4e2948618b77" />
 Fruit and Vegetable Image Recognition Dataset (Kaggle)
 Link: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
