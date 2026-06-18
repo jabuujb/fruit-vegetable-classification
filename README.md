@@ -12,7 +12,7 @@ Computer vision project using TensorFlow/Keras to classify 51 fruit and vegetabl
 <td align="center">
 <img width="500" alt="CNN Accuracy" src="https://github.com/user-attachments/assets/faa39747-cb79-407e-9f3d-5ed22a296436" />
 <br>
-<b>CNN Accuracy Over Epochs</b>
+<b>Accuracy of Images</b>
 </td>
 </tr>
 </table>
