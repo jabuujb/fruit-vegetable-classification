@@ -29,7 +29,6 @@ The system classifies images into 51 categories of fruits and vegetables and the
 
 <img width="1378" height="430" alt="image" src="https://github.com/user-attachments/assets/bee3ab16-b490-42ac-a68f-0a50a4d1239c" />
 
-
 ## Technologies
 
 - Python
