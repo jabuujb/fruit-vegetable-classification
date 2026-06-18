@@ -27,7 +27,7 @@ The system classifies images into 51 categories of fruits and vegetables and the
 - Vegetables
 - Unknown Objects
 
-<img width="898" height="392" alt="image" src="https://github.com/user-attachments/assets/e355ed0e-2534-4f62-836c-d50c8617457a" />
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/bee3ab16-b490-42ac-a68f-0a50a4d1239c" />
 
 
 ## Features
@@ -39,8 +39,6 @@ The system classifies images into 51 categories of fruits and vegetables and the
 - Data augmentation
 - Performance comparison
 - Unknown object detection
-
-<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/bee3ab16-b490-42ac-a68f-0a50a4d1239c" />
 
 ## Technologies
 
